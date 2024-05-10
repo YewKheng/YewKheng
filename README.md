@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Typescript and Backend Development**
+- 🌱 I’m currently learning **Typescript.**
 
 - 👨‍💻 All of my projects are available at [https://www.yewkhengk.com](https://www.yewkhengk.com)
 
