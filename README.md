@@ -7,7 +7,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **Typescript.**
 
-- 👨‍💻 All of my projects are available at [https://kheng-portfolio-v1.vercel.app (https://kheng-portfolio-v1.vercel.app/)]
+- 👨‍💻 All of my projects are available at https://kheng-portfolio-v1.vercel.app
  
 
 ## 🌐 Socials:
