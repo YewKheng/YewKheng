@@ -7,7 +7,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **Typescript.**
 
-- 👨‍💻 All of my projects are available at [https://www.yewkhengk.com](https://www.yewkhengk.com)
+- 👨‍💻 All of my projects are available at [[https://www.yewkhengk.com](https://kheng-portfolio-v1.vercel.app/)]
 
 
 ## 🌐 Socials:
